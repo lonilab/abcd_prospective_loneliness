@@ -1,4 +1,4 @@
-# ABCD Prospective Loneliness
+# What makes a lonely child: Environmental, health, and multimodal neuroimaging correlates of prospective loneliness in the ABCD study
 
 ## Overview
 This project investigates multilevel correlates of **prospective loneliness** in late childhood using data from the Adolescent Brain Cognitive Development (ABCD) Study. The aim is to identify environmental, health, and neurobiological features associated with later loneliness, with emphasis on **pattern-level inference rather than prediction**.
@@ -69,7 +69,7 @@ Focus: **effect size patterns**, not isolated significance
 ## Citation
 If you use this code or build upon this work, please cite:
 
-> *What makes a lonely child: Environmental, health, and multimodal neuroimaging predictors of prospective loneliness in the ABCD study*
+> *What makes a lonely child: Environmental, health, and multimodal neuroimaging correlates of prospective loneliness in the ABCD study*
 
 ## Data Access
 ABCD data are available via the **NIMH Data Archive (NDA)**.  
