@@ -1,4 +1,3 @@
-```markdown
 # ABCD Prospective Loneliness
 
 ## Overview
@@ -56,26 +55,8 @@ Focus: **effect size patterns**, not isolated significance
 - **Inferential over predictive**: models are used to characterize structure in the data, not optimize classification  
 - **Multilevel integration**: environmental, health, and brain features are examined within the same framework  
 
-## Repository Structure
-```
-
-├── data/                  # Data access instructions (ABCD controlled access)
-├── scripts/
-│   ├── preprocessing/     # Data cleaning and feature construction
-│   ├── lmm/               # Mass-univariate models
-│   ├── lda/               # Multivariate neuroimaging analyses
-│   ├── bootstrap/         # Stability estimation
-│   └── sensitivity/       # Sensitivity analyses
-├── results/
-│   ├── tables/            # Summary statistics and model outputs
-│   ├── figures/           # Main and supplementary figures
-├── docs/                  # Manuscript-related materials
-└── README.md
-
-```
-
 ## Reproducibility
-- Analyses implemented in **R** (e.g., `lme4`, `lmerTest`, `MASS`, `tidymodels`)
+- Analyses implemented in **R**
 - Fully scripted workflow for transparency
 - Random seeds fixed for reproducibility where applicable
 
@@ -98,4 +79,4 @@ Access requires a data use agreement: https://nda.nih.gov/abcd
 For questions or collaboration:
 - Laboratory of Neurodevelopmental Informatics (LoNI)
 - Email: [your email]
-```
+
