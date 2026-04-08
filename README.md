@@ -69,7 +69,7 @@ Focus: **effect size patterns**, not isolated significance
 ## Citation
 If you use this code or build upon this work, please cite:
 
-> *What makes a lonely child: Environmental, health, and multimodal neuroimaging predictors of prospective loneliness in the ABCD study* (under revision, JCPP)
+> *What makes a lonely child: Environmental, health, and multimodal neuroimaging predictors of prospective loneliness in the ABCD study*
 
 ## Data Access
 ABCD data are available via the **NIMH Data Archive (NDA)**.  
@@ -78,5 +78,5 @@ Access requires a data use agreement: https://nda.nih.gov/abcd
 ## Contact
 For questions or collaboration:
 - Laboratory of Neurodevelopmental Informatics (LoNI)
-- Email: [your email]
+- Email:
 
